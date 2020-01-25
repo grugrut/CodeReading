@@ -1,0 +1,17 @@
+* Repository
+https://github.com/jimeh/.emacs.d
+
+* Memo
+
+** WhiteSpaceの記号を置き換える
+https://github.com/jimeh/.emacs.d/blob/master/core/siren-core-editor.el#L127-L139
+
+** ialign
+https://github.com/mkcms/interactive-align
+インタラクティブにalignできる。最近だとフォーマッタに流すからそちらでよろしくやってほしい
+
+** Subword Mode
+https://github.com/jimeh/.emacs.d/blob/master/modules/languages/siren-dockerfile.el#L15
+単語移動の区切りをスペースではなくキャメルケースを理解するようになる
+
+
