@@ -1,0 +1,7 @@
+* Repository
+https://github.com/grettke/lolsmacs
+
+* MEMO
+(size-indication-mode)
+モードラインの位置表示を、 =N%= だけでなく、 =N% of M= にできる
+
